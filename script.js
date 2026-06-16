@@ -7,9 +7,9 @@ const projectLinks = document.querySelectorAll("[data-project-url]");
 
 const WHATSAPP_NUMBER = "916299329703";
 const PROJECT_URLS = [
-  "#bihar-achievers-coaching",
-  "#business-website-demo",
-  "#educational-portal-demo",
+    "https://priyankakumari742.github.io/hhh/",
+    "https://biharwebstudio.com",
+    "https://priyankakumari742.github.io/coaching-demo/"
 ];
 
 navToggle?.addEventListener("click", () => {
