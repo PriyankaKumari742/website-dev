@@ -5,7 +5,7 @@ const formStatus = document.querySelector("#formStatus");
 const whatsappBtn = document.querySelector("#whatsappBtn");
 const projectLinks = document.querySelectorAll("[data-project-url]");
 
-const WHATSAPP_NUMBER = "916299329703";
+const WHATSAPP_NUMBER = "917808465179";
 const PROJECT_URLS = [
     "https://priyankakumari742.github.io/hhh/",
     "https://priyankakumari742.github.io/Apex-13000/",
