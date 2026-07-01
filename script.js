@@ -9,7 +9,7 @@ const WHATSAPP_NUMBER = "917808465179";
 const PROJECT_URLS = [
     "https://priyankakumari742.github.io/hhh/",
     "https://priyankakumari742.github.io/Apex-13000/",
-    "https://priyankakumari742.github.io/coaching-demo/"
+    "https://priyankakumari742.github.io/Mahaveer/"
 ];
 
 navToggle?.addEventListener("click", () => {
